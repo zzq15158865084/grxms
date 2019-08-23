@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="icon_toggle" unicode="&#58897;" d="M64 672h896v-64H64zM64 416h896v-64H64zM64 160h896v-64H64z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="qipao2-copy" unicode="&#58642;" d="M151.46666587-128L3825.06666587-128C3916.79999987-128 3989.33333287-55.46666701000004 3989.33333287 36.26666700999999l0 505.59999998c0 91.73333301-72.533333 164.26666699-164.266667 164.26666601l-322.13333299 0-59.73333301 187.733334-315.733334-187.733334-2971.733333 0c-91.73333301 0-164.26666699-72.533333-164.266667-164.266666L-8.53333413 36.266666999999984c-4.26666699-91.733333 68.266667-164.26666699 160-164.266667z"  horiz-adv-x="4002" />
+
+    
+
+
+  </font>
+</defs></svg>

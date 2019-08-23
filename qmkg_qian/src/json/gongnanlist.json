@@ -1,0 +1,35 @@
+{
+    "data":[
+      {
+        "id":1,
+        "img":"images/maybe/feature_1.jpg",
+        "title":"丰富榜单",
+        "subtitle":"点歌台改造，锁定你想要的歌"
+      },
+      {
+        "id":2,
+        "img":"images/maybe/feature_2.jpg",
+        "title":"精彩抢先",
+        "subtitle":"动态页曝光，实时参与歌房和直播"
+      },
+      {
+        "id":3,
+        "img":"images/maybe/feature_3.jpg",
+        "title":"歌房作品发布",
+        "subtitle":"发布在歌房中演唱的优秀作品"
+      },
+     {
+        "id":4,
+        "img":"images/maybe/feature_4.jpg",
+        "title":"下载作品",
+        "subtitle":"随时随地想听就听！"
+      },
+       {
+        "id":5,
+        "img":"images/maybe/feature_5.jpg",
+        "title":"任务中心",
+        "subtitle":"更多鲜花福利等你来！"
+      }
+    ]
+  }
+  
